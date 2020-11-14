@@ -5,7 +5,7 @@ title: Projects
 <img align="right" src="/assets/rubik.jpeg" style="width:250px;"/>
 ## Projects:
 
-* [**Introduction to Engineering Design**]({{site.baseurl}}/_projects/knw.html) <br>
+* [**Introduction to Engineering Design**](/_projects/knw.html) <br>
     *Spring 2019*
 
 * [**Sentiment Analyzer**]({{site.baseurl}}/_projects/sentAnalysis.html) <br>
