@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction to Engineering Design
+permalink: /knw/
 ---
 # Introduction to Engineering Design
 
