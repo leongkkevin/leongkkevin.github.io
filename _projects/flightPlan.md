@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Flight Planner
+permalink: /flightPlan/
 ---
 # Flight Planner
 
@@ -8,9 +9,9 @@ Using an adjacency list of flight paths and iterative backtracking, this project
 
 ![Flight Chart](/assets/flightMap.png) 
 
-First, I created a <a href="https://github.com/SMUCSE2341/20f-flt-pln-kkleongsmu/blob/master/Flight.h">Flight object</a> that holds the origin, destination, cost, duration, and airline of the flight. Then, I parsed through the flight path input file and added flights to a <a href="https://github.com/SMUCSE2341/20f-flt-pln-kkleongsmu/blob/master/FlightAdjList.h">flight adjacency list object</a>. This adjacency list would hold all the possible flight paths between each city.
+First, I created a <a href="https://github.com/leongkkevin/flightPlanner/blob/master/Flight.h">Flight object</a> that holds the origin, destination, cost, duration, and airline of the flight. Then, I parsed through the flight path input file and added flights to a <a href="https://github.com/leongkkevin/flightPlanner/blob/master/FlightAdjList.h">flight adjacency list object</a>. This adjacency list would hold all the possible flight paths between each city.
 
-Next, I parse in the user input file of wanted flights. Using iterative backtracking and a self-made <a href="https://github.com/SMUCSE2341/20f-flt-pln-kkleongsmu/blob/master/DSStack.h">templated stack object</a>, the algorithm searches through the entire adjacency list and stores all flight paths from a wanted origin to a wanted destination in another adjacency list.
+Next, I parse in the user input file of wanted flights. Using iterative backtracking and a self-made <a href="https://github.com/leongkkevin/flightPlanner/blob/master/DSStack.h">templated stack object</a>, the algorithm searches through the entire adjacency list and stores all flight paths from a wanted origin to a wanted destination in another adjacency list.
 <br><br>
 *An example of a flight data and wanted flights is shown below:*
 ![Flight Info](/assets/flightInfo.png)
@@ -23,4 +24,4 @@ The algorithm then sorts the list by either time or cost (represented in the inp
 
 Happy travels!
 
-<a href="https://github.com/SMUCSE2341/20f-flt-pln-kkleongsmu">*Click here for the full Github Repository*</a>
+<a href="https://github.com/leongkkevin/flightPlanner">*Click here for the full Github Repository*</a>
