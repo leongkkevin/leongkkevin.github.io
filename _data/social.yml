@@ -1,0 +1,4 @@
+social:
+  - {icon: 'github', type: "brand", link: 'https://www.github.com/leongkkevin'}
+  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/kevin-leong-75bb81196'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:leong.kkevin@gmail.com'}

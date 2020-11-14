@@ -1,0 +1,3 @@
+  pages:
+  - {name: 'About', url: 'index.html'}
+  - {name: 'Projects', url: 'projectPage.html'}
