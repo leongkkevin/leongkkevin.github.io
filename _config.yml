@@ -34,7 +34,8 @@ include:
 
 
 # Build settings
-theme: jekyll-yamt
+#theme: jekyll-yamt
+remote_theme: jekyll-yamt
 plugins:
   - jekyll-feed
   - jekyll-menus
