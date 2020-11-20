@@ -27,7 +27,7 @@ More information about my projects found in the <a href="projectPage.html">*Proj
 * Assembly Language Programming and Machine Organization
 * Data Structures
 
-For more information, please look at my resume linked here!
+For more information, please look at my [resume linked here]({{site.baseurl}}/resume/)!
 
 When I'm not coding or studying, I spend most of my time staying active - either swimming or playing volleyball with friends at the gym. To relax, I enjoy sitting back and strumming my guitar. 
 
