@@ -8,12 +8,30 @@ permalink: /Modeling_and_Animation/
 
 Along with my ventures in computer science and software development, I also have found an interest in 3D modeling and animation. Using <a href="https://www.autodesk.com/products/maya/overview?support=ADVANCED&plc=MAYA&term=1-YEAR&quantity=1">Autodesk's Maya</a>, I developed knowledge about modeling, simulations, and rendering. More information on my 3D modeling projects are shown below:
 
-### Modeling
+* [**Link's Sword and Shield**]({{site.baseurl}}/Link_Sword_and_Shield/) <br>
+    *Modeled the sword and shield for the character Link from one of my favorite retro video games Legend of Zelda*
 
-### Rigging
-### Animation
-### Simulations
-### Lighting and Texture
+* [**7-11 Logo**]({{site.baseurl}}/Seven_Eleven_Logo/) <br>
+    *Created a 3D animation for 7-11's famous logo from a simple image*
+
+* [**Pixar's Lamp**]({{site.baseurl}}/Pixar_Lamp/) <br>
+    *Rigged and animated one of Pixar's most iconic characters*
+
+<!---
+
+* [**MASH Particles**]({{site.baseurl}}/MASH_Particles/) <br>
+    *Utilized Arnold's built in MASH functions to create pulse, trail, and outline particle effects*
+
+* [**Pirate Flag**]({{site.baseurl}}/Pirate_Flag/) <br>
+    *Modeled and simulated a pirate flag billowing in the wind using Maya's N-Cloth Dynamics*
+
+* [**The Dancing Knight**]({{site.baseurl}}/Dancing_Knight/) <br>
+    *Created a smooth animation of a dancing knight using Mixamo*
+
+* [**Robot Render**]({{site.baseurl}}/Robot_Render/) <br>
+    *Staged and lighted a beautiful model of a futuristic-looking robot*
+
+-->
 
 <br>
 <font size="1"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F758786237194760934%2F&psig=AOvVaw1KeeK825oRpSSmAdi62kx9&ust=1607301535692000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODIv_qOuO0CFQAAAAAdAAAAABAD">Image Source</a></font>
