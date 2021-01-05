@@ -11,7 +11,7 @@ The first thing I did was create the flag itself. Using a simple image of a torn
 
 |Flag Reference Image| Flag Texture | Final Product |
 |-------|--------|---------|
-| <img align="left" src="/assets/PirateFlagImage.png" style="width:200px;"> |  <img align="right" src="/assets/PirateFlagTexture.jpg" style="width:300px;"> | <img align="right" src="/assets/PirateFlagOnly.png" style="width:300px;"> |
+| <img align="left" src="/assets/PirateFlagRefImage.png" style="width:275px;"> |  <img align="right" src="/assets/PirateFlagTexture.jpg" style="width:300px;"> | <img align="right" src="/assets/PirateFlagOnly.png" style="width:300px;"> |
 
 Now, a pirate flag is just a piece of cloth if it can't fly in the wind - so the next thing I created was the flagpole. This consisted of modeling 3 cylinders of increasing width layered on top of one another. Next, I took a torus shape, scaled it, and copied it down the middle section of the pole. Together, this gave the flagpole some weight, as well as a more interesting design than a simple long rod. In order to constrain one of the flag's sides onto the pole, I selected the vertices on the far left side of the flag and created a constraint, then grouped the constraints to the pole. 
 
