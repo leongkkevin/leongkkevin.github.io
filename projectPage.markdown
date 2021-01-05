@@ -5,6 +5,8 @@ title: Projects
 <img align="right" src="/assets/rubik.jpeg" style="width:250px;"/>
 ## Projects:
 
+Here are some of the Computer Science and Creative Computing based projects I have completed. Please click on any link to view more.
+
 * [**Introduction to Engineering Design**]({{site.baseurl}}/knw/) <br>
     *Spring 2019*
 
@@ -21,5 +23,11 @@ title: Projects
     *Spring 2019*
 
 * [**3D Modeling and Animation**]({{site.baseurl}}/Modeling_and_Animation/) <br> *Spring 2019*
+
+<!--
+
+[*About this website*]({{site.baseurl}}/aboutThisWebsite/) <br>
+
+-->
 
 <font size="1"><a href="https://www.indiamart.com/proddetail/rubiks-cube-training-services-21285889797.html">Image Source</a></font>

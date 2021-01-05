@@ -22,10 +22,10 @@ Along with my ventures in computer science and software development, I also have
 * [**MASH Particles**]({{site.baseurl}}/MASH_Particles/) <br>
     *Utilized Arnold's built in MASH functions to create pulse, trail, and outline particle effects*
 
-* [**Pirate Flag**]({{site.baseurl}}/Pirate_Flag/) <br>
-    *Modeled and simulated a pirate flag billowing in the wind using Maya's N-Cloth Dynamics*
-
 -->
+
+* [**Pirate Flag**]({{site.baseurl}}/Pirate_Flag/) <br>
+    *Modeled and simulated a pirate flag billowing in the wind using Maya's nCloth Dynamics*
 
 * [**The Dancing Knight**]({{site.baseurl}}/Dancing_Knight/) <br>
     *Created choreography with a dancing knight using Mixamo animations and characters*
