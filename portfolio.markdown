@@ -6,7 +6,7 @@ title: Creative Portfolio
 
 # Creative Portfolio:
 
-[comment]: <> [*Please click here to view my demo reel.*]({{site.baseurl}}/Demo_Reel/)
+[comment]: [*Please click here to view my demo reel.*]({{site.baseurl}}/Demo_Reel/)
 
 Here are some creative experiences and that I have explored. Please click on any link to learn more. 
 
@@ -22,6 +22,10 @@ Delve deep into different 3D Modeling and Animation principles and skills.
 *Spring 2021 - Max MS* <br>
 Currently working on sound engineering projects
 
+The more I discover the limitless possibilities of writing and animation, the more excited I get about developing my skills in the industry. As Ed Catmull says in his book *Creativity Inc.*, "Don’t wait for things to be perfect before you share them with others." Here I want to share my work, hoping to find new opportunities to gain experience and grow both as an artist and as an individual.
 <br>
 
 [*Back to Home*]({{site.baseurl}}/index.html/)
+
+
+<font size="1"><a href="https://static.wikia.nocookie.net/lucasfilm-pixar-pixar-animation-studios/images/c/c4/Luxo_Jr.png/revision/latest/scale-to-width-down/620?cb=20191026121040">Image Source</a></font>

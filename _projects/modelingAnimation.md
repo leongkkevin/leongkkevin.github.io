@@ -6,7 +6,7 @@ permalink: /Modeling_and_Animation/
 <img align="right" src="/assets/MayaLogo.png" style="width:150px;">
 # 3D Modeling and Animation
 
-Using <a href="https://www.autodesk.com/products/maya/overview?support=ADVANCED&plc=MAYA&term=1-YEAR&quantity=1">Autodesk's Maya</a>, I developed knowledge about modeling, simulations, and rendering. More information on my 3D modeling projects are shown below:
+Inspired by the beauty and realism of Pixar's *Toy Story 4*, I wanted to dive deep into learning the technical skills and aesthetic designs of 3D Modeling and Animation. Using <a href="https://www.autodesk.com/products/maya/overview?support=ADVANCED&plc=MAYA&term=1-YEAR&quantity=1">Autodesk's Maya</a>, I developed knowledge about modeling, simulations, and rendering. More information on my 3D modeling projects are shown below:
 
 * [**Link's Sword and Shield**]({{site.baseurl}}/Link_Sword_and_Shield/) <br>
     *Modeled the sword and shield for the character Link from one of my favorite retro video games Legend of Zelda*
@@ -33,9 +33,7 @@ Using <a href="https://www.autodesk.com/products/maya/overview?support=ADVANCED&
 * [**Mr. Roboto**]({{site.baseurl}}/Robot_Render/) <br>
     *Staged and lighted a beautiful model of a futuristic-looking robot*
 
-This exploration into 3D modeling and animation, while a part of my Creative Computing B.A., was something I had always found interesting since I was a small child. Being fascinated by Disney and Pixar, I always wanted to get a look at the behind-the-scenes of those stunning animated films. 
-
-Diving into modeling, rigging, animation, and much more really made me appreciate the time and effort that goes into everything from the online video games I play to huge-budget animated Pixar feature films that are shown worldwide. To think I have only scratched the surface of this amazing craft! I had a lot of fun making these projects and I am excited to make more in the future.
+Learning about modeling, rigging, animation, and much more really made me appreciate the time and effort that goes into creating everything from the online video games I play to huge-budget animated feature films that I watch. To think I have only scratched the surface of this amazing craft! I had a lot of fun making these projects and I am excited to develop my skills and make more in the future.
 
 <br>
 [*Back to Portfolio*]({{site.baseurl}}/portfolio.html/)
