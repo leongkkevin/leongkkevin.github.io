@@ -16,3 +16,6 @@ In order to index the file, I created a <a href="https://github.com/leongkkevin/
 I also implemented my own custom <a href="https://github.com/leongkkevin/autoIndexer/blob/master/DSString.h">string wrapper class</a> as well as custom, templated <a href="https://github.com/leongkkevin/autoIndexer/blob/master/DSList.h"> doubly linked list</a> and <a href="https://github.com/leongkkevin/autoIndexer/blob/master/DSVector.h">vector</a> classes.
 
 <a href="https://github.com/leongkkevin/autoIndexer">*Click here for the full Github Repository*</a>
+
+<br>
+<a href="{{site.baseurl}}/projectPage.html">*Back to Projects*</a>

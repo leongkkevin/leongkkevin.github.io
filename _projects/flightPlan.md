@@ -25,3 +25,6 @@ The algorithm then sorts the list by either time or cost (represented in the inp
 Happy travels!
 
 <a href="https://github.com/leongkkevin/flightPlanner">*Click here for the full Github Repository*</a>
+
+<br>
+<a href="{{site.baseurl}}/projectPage.html">*Back to Projects*</a>

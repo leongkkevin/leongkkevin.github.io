@@ -31,3 +31,6 @@ I now work as a teaching assistant for the class, providing mechanical knowledge
 ![New Salinity Sensor](/assets/newSalTest.png) 
 <br>
 Not only this, I act as a teaming advisor, helping resolve issues between teammates and groups. I really enjoy this position as not only do I get to learn more about several different disciplines of engineering, but I also get to help my peers accel in engineering design 
+
+<br>
+<a href="{{site.baseurl}}/projectPage.html">*Back to Projects*</a>

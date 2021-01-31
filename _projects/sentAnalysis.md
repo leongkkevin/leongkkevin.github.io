@@ -17,3 +17,6 @@ In this project, I also implemented a <a href="https://github.com/leongkkevin/se
 <a href="https://github.com/leongkkevin/sentimentAnalyzer">*Click here for the full Github Repository*</a>
 
 <font size="1"><a href="https://www.imdb.com/pressroom/brand-guidelines/">Image Source</a></font>
+
+<br>
+<a href="{{site.baseurl}}/projectPage.html">*Back to Projects*</a>
