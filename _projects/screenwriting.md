@@ -3,7 +3,7 @@ layout: page
 title: Screenwriting
 permalink: /Screenwriting/
 ---
-<img align="right" src="/assets/buzzAndWoody.jpg" style="width:200px;">
+<img align="right" src="/assets/buzzAndWoodyClear.png" style="width:300px;">
 # Screenwriting
 
 As Pixar's Co-Creator and Disney Animation's President Ed Catmull once said, "Story is King." Whether it be on the page or on the big screen, having a compelling and genuine story will make or break any piece of creative work. <br>
