@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-<img align="right" src="/assets/rubik.jpeg" style="width:230px;"/>
+<img align="right" src="/assets/rubik.png" style="width:250px;"/>
 # Engineering Projects:
 
 Here are some of the Computer Science based projects I have completed. Please click on any link to view more.
