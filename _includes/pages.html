@@ -1,3 +1,13 @@
 {% for item in site.data.pages.pages %}
-<i> <u> <a style="color:black" href="{{ item.url | relative_url}}">  {{ item.name }}</a></u> &ensp;</i>
+
+<u> 
+    <b>
+        <span style="background-color: #b0e0e6"> 
+            <a style="color:black" href="{{ item.url | relative_url}}">{{ item.name }}
+            </a>
+        </span>
+    </b>
+</u> 
+&ensp;&ensp;
+
 {% endfor %}
