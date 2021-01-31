@@ -19,9 +19,9 @@ Being my first project, I wanted to write something close to my heart. Inspired 
 This project, I wanted to try another type of story - something more dramatic. Influenced by the ongoing COVID-19 pandemic, I developed a story about a family being constrained by both mysterious monsters and each other. 
 
 [*Please click here to read an excerpt.*]({{site.baseurl}}/Thicker_than_Water/)
-<br><br>
-
-[*Back to Portfolio*]({{site.baseurl}}/portfolio.html/)
 
 <br>
+[*Back to Portfolio*]({{site.baseurl}}/portfolio.html/)
+<br>
+
 <font size="1"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F354588170633154613%2F&psig=AOvVaw3kcURXlhCCaUAuZZdlO7Eh&ust=1612134629346000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCIz9HjxO4CFQAAAAAdAAAAABAJ">Image Source</a></font>
