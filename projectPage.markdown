@@ -32,8 +32,4 @@ Computer science is not "just code." The more I finished programming projects an
 
 <a href="{{site.baseurl}}/index.html">*Back to Home*</a>
 
-<!--
-[*About this website*]({{site.baseurl}}/aboutThisWebsite/) <br>
--->
-
 <font size="1"><a href="https://www.indiamart.com/proddetail/rubiks-cube-training-services-21285889797.html">Image Source</a></font>
