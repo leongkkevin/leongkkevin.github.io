@@ -33,7 +33,7 @@ Inspired by the beauty and realism of Pixar's *Toy Story 4*, I wanted to dive de
 * [**Mr. Roboto**]({{site.baseurl}}/Robot_Render/) <br>
     *Staged and lighted a beautiful model of a futuristic-looking robot*
 
-Learning about modeling, rigging, animation, and much more really made me appreciate the time and effort that goes into creating everything from the online video games I play to huge-budget animated feature films that I watch. To think I have only scratched the surface of this amazing craft! I had a lot of fun making these projects and I am excited to develop my skills and make more in the future.
+Learning about modeling, rigging, animation, and much more really made me appreciate the time and effort that goes into creating everything from the online video games I play to huge-budget animated feature films that I watch. I have only scratched the surface of this amazing art and I simply can’t wait to learn more. I had a lot of fun making these projects and I am excited to develop my skills and make more in the future.
 <br>
 
 <a href="{{site.baseurl}}/portfolio.html">*Back to Portfolio*</a>
