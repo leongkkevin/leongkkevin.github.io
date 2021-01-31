@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Creative Portfolio
+permalink: /portfolio.html/
 ---
 <img align="right" src="/assets/LuxoJr.png" style="width:250px;">
 
