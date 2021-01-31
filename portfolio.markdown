@@ -25,7 +25,7 @@ Currently working on sound engineering projects
 The more I discover the limitless possibilities of writing and animation, the more excited I get about developing my skills in the industry. As Ed Catmull says in his book *Creativity Inc.*, "Don’t wait for things to be perfect before you share them with others." Here I want to share my work, hoping to find new opportunities to gain experience and grow both as an artist and as an individual.
 <br>
 
-[*Back to Home*]({{site.baseurl}}/index.html/)
+<a href="{{site.baseurl}}/index.html">*Back to Home*</a>
 
 
 <font size="1"><a href="https://static.wikia.nocookie.net/lucasfilm-pixar-pixar-animation-studios/images/c/c4/Luxo_Jr.png/revision/latest/scale-to-width-down/620?cb=20191026121040">Image Source</a></font>
