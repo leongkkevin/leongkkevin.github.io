@@ -82,6 +82,7 @@ remote_theme: jekyll-YAMT
 plugins:
   - jekyll-feed
   - jekyll-menus
+  - jekyll-paginate
 
 defaults:
 
