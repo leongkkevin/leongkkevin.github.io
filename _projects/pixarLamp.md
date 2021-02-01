@@ -15,7 +15,7 @@ First, I began by finding a very basic lamp model - which was already seperated 
 *Here is a short demo of the lamp's IK controllers:*
 <iframe width="700" height="395" src="https://www.youtube.com/embed/sy7A8hQUBaI?controls=0" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
-After finishing the lamp's rig, I created a short animation of the lamp jumping. Using only keyframes (I was unaware of animation graphs at the time), I created this short gif from a playblast of the jumping lamp animation: 
+After finishing the lamp's rig, I created a short animation of the lamp jumping. Using only keyframes, I created this short gif from a playblast of the jumping lamp animation: 
 
 <img align="center" src="/assets/lampGif.gif" style="width:200;">
 
