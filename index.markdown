@@ -11,7 +11,7 @@ title: About Me
 
 My name is Kevin Leong and I am a sophomore at Southern Methodist University studying Computer Science (B.S.) and Creative Computing (B.A.). I am currently employed as a Teaching Assistant for the Introduction to Engineering and Design course and serve as Chief of External Affairs for Loyd Commons here at SMU. I also volunteer my time as a Public Relations Officer for GatorAid - a tutoring service offered to students from my old high school.
 
-More information about my creative works and engineering programs found in my <a href="portfolio.html">**Portfolio**</a> and <a href="projectPage.html">**Projects**</a> tabs, respectively. 
+More information about my creative works and engineering programs found in my <a href="portfolioPage.html">**Portfolio**</a> and <a href="projectPage.html">**Projects**</a> tabs, respectively. 
 
 #### Important Skills: 
 * Proficient in C++
