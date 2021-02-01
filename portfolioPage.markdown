@@ -30,6 +30,9 @@ Delve deep into different 3D Modeling and Animation principles and skills.
 * [**7-11 Logo**]({{site.baseurl}}/Seven_Eleven_Logo/) <br>
     *Created a 3D animation for 7-11's famous logo from a simple image*
 
+* [**MASH Particles**]({{site.baseurl}}/MASH_Particles/) <br>
+    *Utilized Arnold's built in MASH functions to create pulse, trail, and outline particle effects*
+
 * [**Link's Sword and Shield**]({{site.baseurl}}/Link_Sword_and_Shield/) <br>
     *Modeled the sword and shield for the character Link from one of my favorite retro video games Legend of Zelda*
 <br>

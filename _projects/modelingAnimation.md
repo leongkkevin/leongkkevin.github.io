@@ -11,6 +11,9 @@ Inspired by the beauty and realism of Pixar's *Toy Story 4*, I wanted to dive de
 * [**Link's Sword and Shield**]({{site.baseurl}}/Link_Sword_and_Shield/) <br>
     *Modeled the sword and shield for the character Link from one of my favorite retro video games Legend of Zelda*
 
+* [**MASH Particles**]({{site.baseurl}}/MASH_Particles/) <br>
+    *Utilized Arnold's built in MASH functions to create pulse, trail, and outline particle effects*
+
 * [**7-11 Logo**]({{site.baseurl}}/Seven_Eleven_Logo/) <br>
     *Created a 3D animation for 7-11's famous logo from a simple image*
 
@@ -32,10 +35,3 @@ Learning about modeling, rigging, animation, and much more really made me apprec
 <a href="{{site.baseurl}}/portfolio.html">*Back to Portfolio*</a>
 
 <font size="1"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F758786237194760934%2F&psig=AOvVaw1KeeK825oRpSSmAdi62kx9&ust=1607301535692000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODIv_qOuO0CFQAAAAAdAAAAABAD">Image Source</a></font>
-
-<!---
-
-* [**MASH Particles**]({{site.baseurl}}/MASH_Particles/) <br>
-    *Utilized Arnold's built in MASH functions to create pulse, trail, and outline particle effects*
-
--->
