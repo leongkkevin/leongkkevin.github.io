@@ -15,7 +15,7 @@ Next, I created a camera and positioned it in such a way so that the robot was f
 
 <img align="center" src="/assets/RobotMaya.png" style="width:700px;">
 
-I really was not a fan of the default material that the model came with, so I created my own. I knew I wanted the final image to be monochromatic and "futuristic" looking, so I decided to have te robot also be a grey color. This would highlight the different textures that I used. <br>
+I really was not a fan of the default material that the model came with, so I created my own. I knew I wanted the final image to be monochromatic and "futuristic" looking, so I decided to have the robot also be a grey color. This would highlight the different textures that I used. <br>
 
 The first (and main) texture I created was a matte grey that is used for much of the robot's body. At first, it was the only texture I had, but I realized I wanted to pull the viewer's attention to the robot's distinctive uneven-sized eyes. So, I created a fully glossy and reflective texture for the eyes that really made them stand out.
 
