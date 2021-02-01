@@ -28,4 +28,6 @@ Afterwards, I imported a nice sunset skydome light from <a href="https://hdrihav
 
 This proejct was a great combination of a lot of skills I had learned (plus many new ones). I got to model 2 items completely from scratch, and play around with their materials and designs. I also got to use skydome lighting to create a beautiful scene. I also learned how to create nCloth simulations - a tool that is used in almost every blockbuster film these days. This project was really eye-opening to how realistic these simulations are becoming. If a basic engine like Maya can create such fantastic looking cloth simulations, I can only imagine what amazing software big-time studios use!
 
-[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
+<a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
+
+[comment]: [*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)

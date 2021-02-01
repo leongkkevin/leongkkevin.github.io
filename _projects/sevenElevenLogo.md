@@ -28,4 +28,6 @@ After, I started to work on animating the logo. First, I set the final keyframe 
 
 This project reminds me a lot about the commercials I see on television. I learned a while back that most of the items (especially cars) that you see on ads are actually 3D models - which makes a lot of sense now. With the 3D model, you can change any aspect of the scene to your wishing. This includes the light, weather, scenery, opacity, and movement of everything! This would make it extremely easy to make an item or logo look idyllic and appealing to the ad's audience.
 
-[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
+<a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
+
+[comment]: [*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)

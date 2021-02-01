@@ -27,4 +27,6 @@ The shield also began as a simple plane. Using extrusions and the image plane of
 
 This project was very fun and eye-opening to the almost infinite tools that artists have at their disposal in order to create exactly what they can imagine. This project got me to experiment with modifying basic polygons, quad-drawing on surfaces, and using the bend and bevel features to really bring to life the sword and shield.
 
-[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
+<a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
+
+[comment]:[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)

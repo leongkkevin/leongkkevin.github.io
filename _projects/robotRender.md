@@ -25,6 +25,8 @@ The first (and main) texture I created was a matte grey that is used for much of
 
 I really love the image that I created. What especially makes me happy about it is the way the contrasting lights keeps the scene interesting, and the different textures on the robot draws the viewer's attention to all parts of the robot. However, I think that I could've added more to the background. Maybe something like a futuristic city skyline would really make the image pop! 
 
-[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
+<a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
+
+[comment]: [*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
 
 <font size="2">* NOTE: This project has nothing to do with the infamous Styx song released in the 1983 of the same name. I just thought that the robot in my final render looked somewhat similar to the ones from the <a href="https://www.youtube.com/watch?v=uc6f_2nPSX8&list=RD27UF_9-MmSg&index=10&ab_channel=StyxVEVO">Mr. Roboto music video.</a> </font>

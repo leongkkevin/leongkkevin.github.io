@@ -3,7 +3,7 @@ layout: page
 title: Pixar's Lamp
 permalink: /Pixar_Lamp/
 ---
-# The Pixar Lamp
+# Luxo Jr.
 
 In this project, I rigged a model of a lamp using inverse kinematics (IK). The project is based off of the most famous character from one of my favorite animation studios: The Pixar Lamp.
 
@@ -21,4 +21,6 @@ After finishing the lamp's rig, I created a short animation of the lamp jumping.
 
 I had a blast creating this project. Having grown up with Pixar classics like *Finding Nemo*, *Toy Story*, and *Wall-E*, I was excited to see the basics of what goes behind creating such amazing characters. This project taught me a lot about the basics of rigging up a basic character with joints and handles. I also got to dabble into some basic keyframe animations using the timeline. 
 
-[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
+<a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
+
+[comment]: [*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)

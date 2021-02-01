@@ -18,4 +18,6 @@ After, I imported one of my favorite songs from 2019/2020: <a href="https://www.
 
 I had a lot of fun making this dancing knight. I got to work with some really well-crafted models and very high-end MOCAP animations! Not only this, I learned a lot about blending sequences, and how to make several different movements flow cohesively into one choreographed routine.
 
-[*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
+<a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
+
+[comment]: [*Back to 3D Modeling and Animation Projects*]({{site.baseurl}}/Modeling_and_Animation/)
