@@ -16,10 +16,10 @@ Here are some creative experiences that I have explored. Please click on any lin
 Delve deep into different 3D Modeling and Animation principles and skills.
 
 * [**Mr. Roboto**]({{site.baseurl}}/Robot_Render/) <br>
-    *Staged and lighted a beautiful model of a futuristic-looking robot*
+    *Staged and lit a beautiful model of a futuristic-looking robot*
 
 * [**The Dancing Knight**]({{site.baseurl}}/Dancing_Knight/) <br>
-    *Created choreography with a dancing knight using Mixamo animations and characters*
+    *Choreographed a dancing knight using Mixamo animations and characters*
 
 * [**Pirate Flag**]({{site.baseurl}}/Pirate_Flag/) <br>
     *Modeled and simulated a pirate flag billowing in the wind using Maya's nCloth Dynamics*
