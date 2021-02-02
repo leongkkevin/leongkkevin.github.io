@@ -11,6 +11,8 @@ Here are some of the Computer Science based projects I have completed. Please cl
     *Spring 2019 - C++* <br>
     Created an autonomous, multi-tooled robot
 
+[comment]: * [***COVID-19 Search Engine***]({{site.baseurl}}/COVID_Search_Engine/) <br> *Fall 2020 - C++* <br> Developed a research database boolean query search engine about the COVID-19 pandemic
+
 * [***Sentiment Analyzer***]({{site.baseurl}}/sentimentAnalysis/) <br>
     *Fall 2020 - C++* <br>
     Identifies the sentiment of words in movie reviews

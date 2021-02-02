@@ -8,7 +8,7 @@ title: Creative Portfolio
 
 [comment]: [*Please click here to view my demo reel.*]({{site.baseurl}}/Demo_Reel/)
 
-Here are some creative experiences and that I have explored. Please click on any link to learn more about that project. 
+Here are some creative experiences that I have explored. Please click on any link to learn more about that project. 
 
 ## 3D Modeling and Animation
 *Spring 2019 - Autodesk Maya*<br>
