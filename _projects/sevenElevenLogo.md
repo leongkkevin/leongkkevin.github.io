@@ -5,22 +5,22 @@ permalink: /Seven_Eleven_Logo/
 ---
 # 7-11 Logo
 
-In this project, I really dove into rendering and lighting, as well as getting into some basic keyframe animations. This project had me animating a 7-11 Logo and also working with skydome lighting. <br>
+In this project, I really dove into rendering and lighting, as well as getting into some basic keyframe animations. This project had me animating a 7-11 Logo and with **skydome lighting**. <br>
 
 <img align="right" src="/assets/SevElevLogoPic.png" style="width:50;">
-I began with a basic black and white 7-11 image (shown to the right). After several failed trials to animate a good-looking 7-11 logo with the PNG image, I realized that I was missing a crucial step in the process of converting an image into a model. I figured out that I should've transformed the PNG into an SVG vector image. This allows the model's edges and outlines to be clean (instead of pixellated and blocky). 
+I began with a basic black and white 7-11 image (shown to the right). After several failed trials to animate a good-looking, non-pixellated 7-11 logo with the PNG image, I realized that I was missing a crucial step in the process of converting an image into a "clean-cut" image. I figured out that I should've transformed the PNG into an **SVG vector image**. This allows the model's edges and outlines to be clean (instead of pixellated and blocky). 
 
 Then, I extruded the flat model to make it three dimensional and added a glossy and colored texture. I also made sure that each individual letter and object (while grouped) was an individual piece of the logo. 
 
-Next, using <a href="https://hdrihaven.com/">HDRI Haven</a>, I found a basic skydome light of a sunny day and imported it into my Maya scene. With a few brightness adjustments, I got the skydome to nicely light my scene.
-
-*The final product of the model is shown below:*
+*The final model is shown below:*
 
 <img src="/assets/SevElevMaya.png">
 
-Now, I was ready to start animating. I created a new camera and a simple half circle line centered around the logo. This would be the basis for the camera motion. I attached the camera to one end and set the curve to be a "motion path". This allowed the camera to move only in the constraints of that line. I set 2 keyframes for the start and end of the camera's path as well as for the path of the circle (which moves from top to bottom of the logo).
+Next, using <a href="https://hdrihaven.com/">HDRI Haven</a>, I found a basic **skydome light** of a sunny day and imported it into my Maya scene. With a few brightness adjustments, I got the skydome to nicely light my scene.
 
-After, I started to work on animating the logo. First, I set the final keyframe as the finished, put-together logo. Then, with each individual piece, I rearranged the logo to its "starting positions" and set their opacity to 0 (so they fade into the logo). I also slightly tweaked the rotation of them for some more dynamic movement. 
+Now, I was ready to start animating. I created a new camera and a simple half circle line centered around the logo. This would be the basis for the camera motion. I attached the camera to one end and set the curve to be a **motion path**. This allowed the camera to move only in the constraints of that line. I set 2 keyframes for the start and end of the camera's path as well as for the path of the circle (which moves from top to bottom of the logo).
+
+After, I started to work on animating the logo itself. First, I set the final keyframe as the finished, put-together logo. Then, with each individual piece, I rearranged the logo to its "starting positions" and set their opacity to 0 (so they fade into the logo). I also slightly tweaked the rotation of them for some more dynamic movement. 
 
 *The final product is shown in the gif below:*
 

@@ -5,8 +5,8 @@ permalink: /blockChainNetwork/
 ---
 # Block Chain
 
-This project was to create a simplified block chain network between three peers: Lyle School of Engineering, Cox Business School, and Meadows School of The Arts. The program uses object oriented programming and polymorphism in order to record detailed transactions between the peers in the network.
-
+This project was to create a simplified **block chain network** between three peers: Lyle School of Engineering, Cox Business School, and Meadows School of The Arts. The program uses **object oriented programming** and **polymorphism** in order to record detailed transactions between the peers in the network.
+**
 ![Block Chain Diagram](/assets/blockChainDiag.png) 
 
 As shown in the diagram, each school has their own ledger filled with transactions that occured between each school. Every transaction was either a cash, check or credit card transaction - each with its own randomly generated ID and money amount. Each cash transaction noted the total money paid and the change returned. Each check transaction had a specific routing and account number. Each credit card transaction noted the card number, expiration date, and cvv. 
