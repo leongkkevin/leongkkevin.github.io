@@ -55,7 +55,7 @@ Here are some creative experiences that I have explored. Please click on any lin
 <u>Currently working on sound engineering projects</u>
 
 <br>
-The more I discover the limitless possibilities of writing and animation, the more excited I get about developing my skills in the industry. As Ed Catmull says in his book *Creativity Inc.*, "Don’t wait for things to be perfect before you share them with others." Here I am hoping to share my work - imperfect or otherwise - as I seek new experiences and grow as a student, an artist, and an individual. 
+The more I discover the limitless possibilities of writing and animation, the more excited I get about developing my skills in the industry. As Ed Catmull says in his book *Creativity Inc.*, **"Don’t wait for things to be perfect before you share them with others."** Here I am hoping to share my work - imperfect or otherwise - as I seek new experiences and grow as a student, an artist, and an individual. 
 <br>
 
 <a href="{{site.baseurl}}/index.html">*Back to Home*</a>
