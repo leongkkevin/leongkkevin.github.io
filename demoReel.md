@@ -31,6 +31,6 @@ All shots were done in Autodesk Maya. Please click on the name of any shot to le
 * Shot 6: <a href="{{site.baseurl}}/Seven_Eleven_Logo/">7/11 Logo</a><br>
     *Modeled the logo from simple png image. Created the motion path and animation. Imported skydome light and staged the final render*<br>
 
-For more information about any part of this demo reel or any more of my projects, please refer to my <a href="https://youtu.be/skwHuVo70L4">Portfolio page</a>.
+For more information about any part of this demo reel or any more of my projects, please refer to my <a href="{{site.baseurl}}/portfolioPage.html">Portfolio page</a>.
 
 <a href="{{site.baseurl}}/portfolioPage.html">*Back to Portfolio*</a>
