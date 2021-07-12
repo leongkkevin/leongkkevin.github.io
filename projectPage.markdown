@@ -4,8 +4,6 @@ title: Projects
 ---
 <img align="right" src="/assets/rubik.png" style="width:250px;"/>
 
-Along with detailed engineering projects, I also have a published <a href="https://kevinkleong.medium.com/the-rope-86eed6130fe7"> Medium article </a> about the Rope Data Structure.
-
 # Engineering Projects:
 
 Here are some of the Computer Science based projects I have completed. Please click on any link to view more.
@@ -33,6 +31,8 @@ Here are some of the Computer Science based projects I have completed. Please cl
 * [***Block Chain***]({{site.baseurl}}/blockChainNetwork/) <br>
     *Spring 2019 - C++* <br>
     Simulated a block chain network and creates a ledger between three networks
+
+Along with detailed engineering projects, I also have a <a href="https://kevinkleong.medium.com/the-rope-86eed6130fe7"> published Medium article </a> about the Rope Data Structure.
 
 Computer science is not "just code." The more I finished programming projects and developed my coding skills, the more I realized that studying computer science has taught me a way of logical problem solving that no other area of study can develop. Even developing and coding this website, I ran into troubles that were probably distinct to only my code. Yet, through the skills I learned from my classes and the projects above, I managed to fix them. 
 <br>
