@@ -3,6 +3,9 @@ layout: page
 title: Projects
 ---
 <img align="right" src="/assets/rubik.png" style="width:250px;"/>
+
+Along with detailed engineering projects, I also have a published <a href="https://kevinkleong.medium.com/the-rope-86eed6130fe7"> Medium article </a> about the Rope Data Structure.
+
 # Engineering Projects:
 
 Here are some of the Computer Science based projects I have completed. Please click on any link to view more.
