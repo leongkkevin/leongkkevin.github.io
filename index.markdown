@@ -9,7 +9,11 @@ title: About Me
 
 <img align="right" src="/assets/Plane_Pic.jpg" style="width:350px;"/>
 
-My name is Kevin Leong and I am a junior at Southern Methodist University studying Computer Science (B.S.) and Creative Computing (B.A.). I am currently employed as a Teaching Assistant for the Introduction to Engineering and Design course and serve as Chief of External Affairs for Loyd Commons here at SMU. I also volunteer my time as a Public Relations Officer for GatorAid - a tutoring service offered to students from my old high school.
+My name is Kevin Leong and I am a **junior** at Southern Methodist University studying *Computer Science (B.S.) and Creative Computing (B.A.)*. 
+
+I am currently employed as a **Research Assistant** studying holographic displays for the **Fort Worth Museum of Science and History** and am a **Teaching Assistant** for the Introduction to Engineering Design and Algorithms courses at SMU.
+
+I am very excited to tell you more about myself.
 
 More information about my creative works and engineering programs found in my <a href="portfolioPage.html">**Portfolio**</a> and <a href="projectPage.html">**Projects**</a> tabs, respectively. 
 
