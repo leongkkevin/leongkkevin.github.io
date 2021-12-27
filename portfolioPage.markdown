@@ -40,13 +40,30 @@ Here are some creative experiences that I have explored. Please click on any lin
 ## Screenwriting
 *Spring 2019 to Fall 2020 - Final Draft*
 
-<u>Developed and edited scripts for two short films</u>
+<u>Wrote and developed scripts for three short films</u>
+
+* [**The Foreigner**]({{site.baseurl}}/The_Foreigner/) - *Spring to Fall 2021* <br>
+    *Inspired by my parent's story of immigrating to America, this animated short follows an immigrant to a foreign land, trying to find his way home.* 
 
 * [**Invisible Boy**]({{site.baseurl}}/Invisible_Boy/) - *Spring 2020* <br>
     *Inspired by my own high school experiences, I wrote an animated short about a transparent teenager trying to win over the heart of a girl.*
 
 * [**Thicker than Water**]({{site.baseurl}}/Thicker_than_Water/) - *Fall 2020* <br>
     *Influenced by the ongoing COVID-19 pandemic, I developed a short film about a family being constrained by both mysterious monsters and each other.* 
+
+## Film Production
+*Fall 2021 - Adobe Premiere Pro*
+
+<u>Wrote, shot, and edited several live-action film projects.</u>
+
+* [**Where the Heart Is**]({{site.baseurl}}/Where_The_Heart_Is/) <br>
+    *A short documentary that highlights the life of a third culture kid in America*
+
+* [**The Libero**]({{site.baseurl}}/The_Libero/) <br>
+    *A short documentary describing the struggles of becoming a volleyball team libero* 
+
+* [**Routine**]({{site.baseurl}}/Routine/)<br>
+    *A short film that exemplifies a wide range of lighting and camera techniques* 
 
 
 ## Sound and Code
