@@ -1,4 +1,5 @@
   pages:
   - {name: 'Home', url: 'index.html'}
+  - {name: 'Resume', url: '/resume/'}
   - {name: 'Portfolio', url: 'portfolioPage.html'}
   - {name: 'Projects', url: 'projectPage.html'}
